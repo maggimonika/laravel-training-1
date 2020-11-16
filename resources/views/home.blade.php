@@ -9,7 +9,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1 class="text-center display-4">Todo</h1>
+                <h1 class="text-center display-4">Book Details</h1>
             </div>
             <div class="col-md-12">
                 <form method="POST" action = "{{route('store')}}">
